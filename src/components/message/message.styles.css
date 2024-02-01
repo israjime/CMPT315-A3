@@ -1,0 +1,16 @@
+.message-container {
+    position:absolute;
+    padding-right: 5px;
+    width: 1350px;
+    height: 1200px;
+    text-align: left;
+    flex-direction: column;
+    background-color: #ffffff;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}

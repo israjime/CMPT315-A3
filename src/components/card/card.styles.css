@@ -1,0 +1,27 @@
+.card-container,.card-container:active {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 16px;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+}
+.card-container:hover {
+    transform: scale(1.02);
+}
+h1{
+    font-size: large;
+}
+h2 {
+    font-size: medium;
+}
+button {
+    outline: none;
+    border: none;
+}
+

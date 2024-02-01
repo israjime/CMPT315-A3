@@ -1,0 +1,9 @@
+.search {
+    outline: none;
+    border: none;
+    padding: 10px;
+    width: 300px;
+    line-height: 50x;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
